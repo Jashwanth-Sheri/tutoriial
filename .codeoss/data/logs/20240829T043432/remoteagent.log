@@ -1,0 +1,24 @@
+2024-08-29 04:34:32.940 [info] 
+
+
+
+
+2024-08-29 04:34:32.940 [info] Extension host agent started.
+2024-08-29 04:34:32.942 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jashwanthsheri56/.codeoss/extensions
+2024-08-29 04:34:32.960 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jashwanthsheri56/.codeoss/extensions
+2024-08-29 04:34:36.067 [info] [127.0.0.1][9ef0e9f1][ManagementConnection] New connection established.
+2024-08-29 04:34:36.266 [info] [127.0.0.1][7b21af24][ExtensionHostConnection] New connection established.
+2024-08-29 04:34:39.409 [info] [127.0.0.1][7b21af24][ExtensionHostConnection] <1174> Launched Extension Host Process.
+2024-08-29 04:57:20.175 [info] [127.0.0.1][7b21af24][ExtensionHostConnection] The client has reconnected.
+2024-08-29 04:57:20.486 [info] [127.0.0.1][9ef0e9f1][ManagementConnection] The client has reconnected.
+2024-08-29 05:03:08.909 [info] [127.0.0.1][9ef0e9f1][ManagementConnection] The client has reconnected.
+2024-08-29 05:03:09.208 [info] [127.0.0.1][7b21af24][ExtensionHostConnection] The client has reconnected.
+2024-08-29 05:05:54.486 [info] [127.0.0.1][9ef0e9f1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-29 05:05:54.553 [info] [127.0.0.1][7b21af24][ExtensionHostConnection] <1174> Extension Host Process exited with code: 0, signal: null.
+2024-08-29 05:06:03.522 [info] [127.0.0.1][3b472f52][ManagementConnection] New connection established.
+2024-08-29 05:06:03.684 [info] [127.0.0.1][5c90c8e6][ExtensionHostConnection] New connection established.
+2024-08-29 05:06:03.699 [info] [127.0.0.1][5c90c8e6][ExtensionHostConnection] <1302> Launched Extension Host Process.
+2024-08-29 05:09:21.561 [info] [127.0.0.1][5c90c8e6][ExtensionHostConnection] The client has reconnected.
+2024-08-29 05:09:21.925 [info] [127.0.0.1][3b472f52][ManagementConnection] The client has reconnected.
+2024-08-29 05:52:00.615 [info] [127.0.0.1][3b472f52][ManagementConnection] The client has reconnected.
+2024-08-29 05:52:01.161 [info] [127.0.0.1][5c90c8e6][ExtensionHostConnection] The client has reconnected.
